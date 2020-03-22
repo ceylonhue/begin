@@ -29,7 +29,7 @@ Syntax highlighted code block
 
 ```
 
-<img src="begin/WIN_20200322_20_29_20_Pro.jpg" alt="alt text" width="640" height="480">
+<img src="/WIN_20200322_20_29_20_Pro.jpg" alt="alt text" width="640" height="480">
 
 For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
 
