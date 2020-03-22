@@ -23,9 +23,9 @@ Syntax highlighted code block
 
 **Bold** and _Italic_ and `Code` text
 
-![Robin Lee](https://github.com/ceylonhue/begin/WIN_20200322_20_29_20_Pro.jpg)
+![Robin Lee](https://github.com/ceylonhue/begin/blob/master/WIN_20200322_20_29_20_Pro.jpg?raw=true)
 
-<img src="https://github.com/ceylonhue/begin/WIN_20200322_20_29_20_Pro.jpg" alt="alt text" width="640" height="480">
+<img src="https://github.com/ceylonhue/begin/blob/master/WIN_20200322_20_29_20_Pro.jpg?raw=true" alt="alt text" width="640" height="480">
 ```
 
 For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
