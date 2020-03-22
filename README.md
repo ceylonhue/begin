@@ -29,7 +29,7 @@ Syntax highlighted code block
 
 ```
 
-<img src="/robin.jpg" alt="Robin Lee" width="640" height="480">
+<img src="/robin.jpg" alt="Robin Lee" width="320" height="260">
 
 For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
 
