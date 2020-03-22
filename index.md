@@ -1,5 +1,5 @@
 ---
-layout: default.html
+layout: default
 ---
 
 ## Welcome to GitHub Pages
