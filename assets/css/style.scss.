@@ -2,13 +2,6 @@
 ---
 ---
 
-@import "";
-
-.fstPage  {
-    background-image:url("images/bluebg.jpg");
-    /*background-color: lightgray;*/
-    height: 700px;
-    width:100%;
-    background-size:cover;
-}
+@import "minima/skins/{{ site.minima.skin | default: 'classic' }}";
+@import "minima/initialize";
 <div class="fstPage"></div>
