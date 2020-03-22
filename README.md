@@ -25,7 +25,7 @@ Syntax highlighted code block
 
 ![GitHub Logo](/begin/WIN_20200322_20_29_20_Pro.jpg)
 
-<img src="/begin/WIN_20200322_20_29_20_Pro.jpg" alt="alt text" width="whatever" height="whatever">
+<img src="/begin/WIN_20200322_20_29_20_Pro.jpg" alt="alt text" width="640" height="480">
 ```
 
 For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
