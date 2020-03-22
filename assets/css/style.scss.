@@ -4,10 +4,11 @@
 
 @import "";
 
-html { 
-  background: url(images/bluebg.jpg) no-repeat center center fixed; 
-  -webkit-background-size: cover;
-  -moz-background-size: cover;
-  -o-background-size: cover;
-  background-size: cover;
+.fstPage  {
+    background-image:url("images/bluebg.jpg");
+    /*background-color: lightgray;*/
+    height: 700px;
+    width:100%;
+    background-size:cover;
 }
+<div class="fstPage"></div>
