@@ -1,3 +1,11 @@
+html { 
+  background: url(/bluebg.jpg) no-repeat center center fixed; 
+  -webkit-background-size: cover;
+  -moz-background-size: cover;
+  -o-background-size: cover;
+  background-size: cover;
+}
+
 ## Welcome to GitHub Pages
 
 You can use the [editor on GitHub](https://github.com/ceylonhue/begin/edit/master/README.md) to maintain and preview the content for your website in Markdown files.
